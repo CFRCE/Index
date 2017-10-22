@@ -6,3 +6,8 @@ Index of Projects and resources available
 
 - [Interview Handbook](https://cfrce.github.io/tech-interview-handbook/)
 - 
+
+
+## Awesome
+
+- [Just Awesome](http://cfrce.github.io/awesome/)
