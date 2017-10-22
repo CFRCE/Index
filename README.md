@@ -11,3 +11,7 @@ Index of Projects and resources available
 ## Awesome
 
 - [Just Awesome](http://cfrce.github.io/awesome/)
+
+
+## Development
+- [Free utilities for dev](https://cfrce.github.io/free-for-dev/)
