@@ -15,3 +15,6 @@ Index of Projects and resources available
 
 ## Development
 - [Free utilities for dev](https://cfrce.github.io/free-for-dev/)
+
+## Design
+- [Awesome Design]( https://cfrce.github.io/awesome-design/)
