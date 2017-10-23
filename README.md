@@ -5,13 +5,11 @@ Index of Projects and resources available
 ## Interviews:
 
 - [Interview Handbook](https://cfrce.github.io/tech-interview-handbook/)
-- 
-
 
 ## Awesome
 
 - [Just Awesome](http://cfrce.github.io/awesome/)
-
+- [Awesome Artificial Intelligence](https://cfrce.github.io/awesome-artificial-intelligence/)
 
 ## Development
 - [Free utilities for dev](https://cfrce.github.io/free-for-dev/)
